@@ -21,7 +21,7 @@ export const Welcome = () => {
     // render
     return (
         <div className="fullpage welcome-container">
-            <img src={WelcomeIllustration} />
+            <img src={WelcomeIllustration} alt=" " />
             <Button onClick={handleGetStarted}>Get started</Button>
         </div>
     );
