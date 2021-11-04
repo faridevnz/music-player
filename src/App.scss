@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.page-container {
+  height: 89vh;
+  width: 100vw;
+  background-color: var(--background-dark)
+}
+
+.tab-bar-container {
+  width: 100vw;
+  height: 12vh;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}

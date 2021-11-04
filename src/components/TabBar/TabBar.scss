@@ -1,0 +1,16 @@
+.tab-bar {
+
+    width: 100%;
+    height: 100%;
+    background-color: #030514;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 15%;
+    box-sizing: border-box;
+
+    .active svg {
+        color: tomato
+    }
+
+}
